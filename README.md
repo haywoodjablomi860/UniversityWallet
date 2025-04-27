@@ -57,8 +57,9 @@ Before you start, make sure you have the following installed:
 
 ### 1. Clone the repository
 ```bash
-[git clone https://github.com/your-repo/university-wallet.git](https://github.com/haywoodjablomi860/UniversityWallet.git)
-cd university-wallet
+git clone https://github.com/haywoodjablomi860/UniversityWallet.git
+cd UniversityWallet
+
 ```
 
 ### 2. Install dependencies
