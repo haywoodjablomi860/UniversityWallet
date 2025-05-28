@@ -5,8 +5,6 @@ The University Wallet is a banking application designed specifically for univers
 
 The application is built using **Node.js**, **TypeScript**, and integrates with a **PostgreSQL** local database. For blockchain integration, **MegaEth testnet** is used to record transactions securely.
 
-This project idea was originally given by **Waqar Zaka**.
-
 ### Key Features:
 - **University-Only Registration**: Users can only register with valid university email addresses.
 - **Blockchain-based Transactions**: All transactions are recorded on the blockchain using MegaEth Testnet.
